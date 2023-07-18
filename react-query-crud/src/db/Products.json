@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Store test",
+      "description": "Store test",
+      "price": 300,
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "name": "Nuevo",
+      "description": "Producto",
+      "price": 256,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "nuevo",
+      "description": "nuevo",
+      "price": 121212,
+      "inStock": true
+    }
+  ]
+}
